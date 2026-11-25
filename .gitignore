@@ -1,0 +1,20 @@
+# Environment & secrets
+.env
+
+# Local database & generated reports
+data/
+output/
+logs/
+backups/
+
+# Python cache & virtual environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
